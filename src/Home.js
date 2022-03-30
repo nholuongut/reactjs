@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Home extends Component {
     render() {
-        return <div>Home page version 2</div>
+        return <div>Home page version demo</div>
     }
 }
 
